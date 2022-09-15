@@ -1,7 +1,7 @@
-# ds202-vanessa-whitehead
+# ode to an academic advisor
 a repository for ds 202
 
-hello world ode to an academic advisor
+hello world 
 
 - first
 - second
